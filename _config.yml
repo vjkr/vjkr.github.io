@@ -6,9 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
-author: Rebecca Felton # add your name
-author-img: rebecca-felton.jpg # add your photo
-about-author: I am an aspiring solicitor who also loves to keep fit.
+author: Becky # add your name
+author-img: rebecca.jpg # add your photo
+about-author: A blog documenting my fitness journey.
 github: bexfitmeansbexfit # add your Github handle
 instagram: bexgainfitstagram # add your Email address
 
