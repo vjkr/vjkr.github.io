@@ -9,4 +9,4 @@ tags: [workout, pupper]
 
 ## DOGGO
 
-hi da doggo *doggo* **doggo**
+hi da *doggo* **woof woof**
