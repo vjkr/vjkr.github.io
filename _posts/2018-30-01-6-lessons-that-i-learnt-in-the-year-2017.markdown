@@ -3,7 +3,7 @@ layout: post
 title: 6 Lessons that I learnt in the year 2017
 date: 2018-01-30 21:00:00 +0300
 description: This is a placeholder post # Add post description (optional)
-img: yoga.jpg # Add image post (optional)
+img: yoga.png # Add image post (optional)
 tags: [fitness, health, lifestyle, fitness journey]
 ---
 
@@ -25,7 +25,7 @@ Through educating myself. For me personally, this involved undertaking my own re
 
 4. <b> It is almost impossible to lose weight consistently whilst drinking lots of alcohol (REALLY?! Yup, really) </b> - well, for me it is, anyway. I did drink regularly during May - December 2017, and I did lose weight. However, it definitely hindered my progress (for example, it took me 7 months to lose 7 lbs whilst regularly drinking, and I was working out 4-5 days a week. Tomorrow, I will have completed 1 full month without drinking...and I've lost 6 lbs...I've basically managed to achieve the same result I achieved in 7 months in 4 weeks). Coincidence? I think not.
 
-5. <b> Different things work for different people </b> - there is no one single way to lose weight or get in shape. For me, I've discovered that lifting heavy weights and HIIT cardio in terms of exercise, and intermittent fasting in terms of diet work really well - figuring this out will ultimately involve some trial and error and take time. Bit guess what? *That is ok*. 
+5. <b> Different things work for different people </b> - there is no one single way to lose weight or get in shape. For me, I've discovered that lifting heavy weights and HIIT cardio in terms of exercise, and intermittent fasting in terms of diet work really well - figuring this out will ultimately involve some trial and error and take time. But guess what? *That is ok*. 
 
 6. <b> Some people will judge you and be dicks about your progress </b> - although I've had so many nice compliments from people who have seen my transformation, there are still people who will judge you *("you're obsessed with the gym", "you're boring now you don't drink", "you spend HOW much on personal training?!, "you're going to end up bulky/too skinny/with no boobs and/or bum").*  Quite frankly, those people aren't worth your time. Remember this is YOUR life - your true friends will support you, and those people giving you shit or trying to make you doubt yourself? well, *BYE FELICIA.* 
 
