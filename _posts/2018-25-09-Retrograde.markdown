@@ -62,4 +62,5 @@ And, because this is not all about weight loss (it's about getting stronger), my
 
 
 Wish me luck!
+
 B x
