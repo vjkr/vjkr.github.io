@@ -41,11 +41,25 @@ Since getting my TC, several things have happened:
 
 Implementing the steps I took whilst I was preparing for my holiday in Thailand and updating my blog with my progress each week. I'm hoping to reach the following goals by the end of the year:
 
-Current Weight: 9 Stone 12 (138lbs)\
-Current Body Fat: unknown (would estimate between 28 - 29%)
+- Current Weight: 9 Stone 12 (138lbs)
 
-Goal Weight: 9 Stone (126lbs)\
-Goal Body Fat: 20%
+- Current Body Fat: unknown (would estimate between 28 - 29%)
 
-Wish me luck!\
+- Goal Weight: 9 Stone (126lbs)
+
+- Goal Body Fat: 20%
+
+And, because this is not all about weight loss (it's about getting stronger), my gym goals are as follows:
+
+1. Be able to do a chin up 
+2. Be able to do a pull up
+3. Improve my push-up form
+4. Back squat: be able to get my bum to the floor (ankle and hib mobility improvement)
+5. Back Squat: 80kg (1 rep)
+6. Front Squat: 40kg (1 rep)
+7. Dead Lift: 100kg (1 rep)
+9. 5k run time: 24 mins.
+
+
+Wish me luck!
 B x
