@@ -48,5 +48,5 @@ Goal Weight: 9 Stone (126lbs)\
 Goal Body Fat: 20%
 
 Wish me luck!\
-B xx
+B x
 
