@@ -3,7 +3,7 @@ layout: post
 title: 6 Lessons that I learnt in the year 2017
 date: 2018-01-30 21:00:00 +0300
 description: This is a placeholder post # Add post description (optional)
-img: yoga.jpg # Add image post (optional)
+img: yoga.jpg # Add  post (optional)
 tags: [fitness, health, lifestyle, fitness journey]
 ---
 
