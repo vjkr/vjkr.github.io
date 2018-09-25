@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retrograde.
-date: 2018-09-28 21:00:00 +0300
+date: 2018-09-25 21:00:00 +0300
 description: update # Add post description (optional)
 img: 615919228-612x612.jpg # Add image post (optional)
 tags: [fitness, health, lifestyle]
